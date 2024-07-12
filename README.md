@@ -1,2 +1,2 @@
 # Tinyone_Responsive
-live project: https://github.com/pronoyeugin/Tinyone_Responsive/settings/pages
+live project: https://pronoyeugin.github.io/Tinyone_Responsive/
